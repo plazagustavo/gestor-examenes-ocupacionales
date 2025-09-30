@@ -1,4 +1,4 @@
-# Consolidador de Exámenes Médicos
+# Gestor de Exámenes Ocupacionales
 
 Herramienta Python para procesar archivos Excel de exámenes médicos ocupacionales. Consolida registros de pacientes por CUIL, ordena alfabéticamente y genera una matriz formateada con pacientes y sus estudios asignados.
 
