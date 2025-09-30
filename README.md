@@ -32,3 +32,7 @@ Instalación
 python main.py
 ```
 
+---
+
+Creado por [Gustavo Plaza](https://github.com/plazagustavo)
+
